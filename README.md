@@ -23,8 +23,6 @@ npm install
 
 *To run this application, you must have MongoDB up and running*
 
-To run the application, use the following command:
-
 ```
 $ npm run dev
 ```
